@@ -2,7 +2,7 @@
 
 A vanilla JavaScript ecommerce
 
-4. Render Dynamic Home Screen
+4. Render Dynamic HomeScreen
    1. Create data.js
    2. Export an array of 6 products
    3. Create screen/HomeScreen.js
